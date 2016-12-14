@@ -1,0 +1,1166 @@
+{
+  "areas_conhecimento": {
+    "grande_area": [
+      {
+        "cod_grande_area": "10000003",
+        "nm_grande_area": "Ciências Exatas e da Terra",
+        "area": [
+          {
+            "cod_area": "10100008",
+            "nm_area": "Matemática",
+            "sub_area": [
+              {
+                "cod_sub_area": "10101004",
+                "nm_sub_area": "Álgebra"
+              },
+              {
+                "cod_sub_area": "10102000",
+                "nm_sub_area": "Análise"
+              },
+              {
+                "cod_sub_area": "10103007",
+                "nm_sub_area": "Geometria e Topologia"
+              },
+              {
+                "cod_sub_area": "10104003",
+                "nm_sub_area": "Matemática Aplicada"
+              }
+            ]
+          },
+          {
+            "cod_area": "10200002",
+            "nm_area": "Probabilidade e Estatística",
+            "sub_area": [
+              {
+                "cod_sub_area": "10201009",
+                "nm_sub_area": "Probabilidade"
+              },
+              {
+                "cod_sub_area": "10202005",
+                "nm_sub_area": "Estatística"
+              }
+            ]
+          },
+          {
+            "cod_area": "10300007",
+            "nm_area": "Ciência da Computação",
+            "sub_area": [
+              {
+                "cod_sub_area": "10301003",
+                "nm_sub_area": "Teoria da Computação"
+              },
+              {
+                "cod_sub_area": "10302000",
+                "nm_sub_area": "Matemática da Computação"
+              },
+              {
+                "cod_sub_area": "10303006",
+                "nm_sub_area": "Metodologia e Técnicas da Computação"
+              },
+              {
+                "cod_sub_area": "10304002",
+                "nm_sub_area": "Sistemas de Computação"
+              }
+            ]
+          },
+          {
+            "cod_area": "10400001",
+            "nm_area": "Astronomia",
+            "sub_area": [
+              {
+                "cod_sub_area": "10401008",
+                "nm_sub_area": "Astronomia de Posição e Mecânica Celeste"
+              },
+              {
+                "cod_sub_area": "10403000",
+                "nm_sub_area": "Astrofísica do Meio Interestelar"
+              },
+              {
+                "cod_sub_area": "10404007",
+                "nm_sub_area": "Astrofísica Extragalactica"
+              },
+              {
+                "cod_sub_area": "10405003",
+                "nm_sub_area": "Astrofísica do Sistema Solar"
+              },
+              {
+                "cod_sub_area": "10406000",
+                "nm_sub_area": "Instrumentação Astronômica"
+              }
+            ]
+          },
+          {
+            "cod_area": "10500006",
+            "nm_area": "Física",
+            "sub_area": [
+              {
+                "cod_sub_area": "10501002",
+                "nm_sub_area": "Física Geral"
+              },
+              {
+                "cod_sub_area": "10502009",
+                "nm_sub_area": "Áreas Clássicas de Fenomenologia e suas Aplicações"
+              },
+              {
+                "cod_sub_area": "10503005",
+                "nm_sub_area": "Física das Partículas Elementares e Campos"
+              },
+              {
+                "cod_sub_area": "10504001",
+                "nm_sub_area": "Física Nuclear"
+              },
+              {
+                "cod_sub_area": "10505008",
+                "nm_sub_area": "Física Atômica e Molecular"
+              },
+              {
+                "cod_sub_area": "10506004",
+                "nm_sub_area": "Física dos Fluídos, Física de Plasmas e Descargas Elétricas"
+              },
+              {
+                "cod_sub_area": "10507000",
+                "nm_sub_area": "Física da Matéria Condensada"
+              }
+            ]
+          },
+          {
+            "cod_area": "10600000",
+            "nm_area": "Química",
+            "sub_area": [
+              {
+                "cod_sub_area": "10601007",
+                "nm_sub_area": "Química Orgânica"
+              },
+              {
+                "cod_sub_area": "10602003",
+                "nm_sub_area": "Química Inorgânica"
+              },
+              {
+                "cod_sub_area": "10603000",
+                "nm_sub_area": "Físico-Química"
+              },
+              {
+                "cod_sub_area": "10604006",
+                "nm_sub_area": "Química Analítica"
+              }
+            ]
+          },
+          {
+            "cod_area": "10700005",
+            "nm_area": "Geociências",
+            "sub_area": [
+              {
+                "cod_sub_area": "10701001",
+                "nm_sub_area": "Geologia"
+              },
+              {
+                "cod_sub_area": "10702008",
+                "nm_sub_area": "Geofísica"
+              },
+              {
+                "cod_sub_area": "10703004",
+                "nm_sub_area": "Meteorologia"
+              },
+              {
+                "cod_sub_area": "10704000",
+                "nm_sub_area": "Geodésia"
+              },
+              {
+                "cod_sub_area": "10705007",
+                "nm_sub_area": "Geografia Física"
+              }
+            ]
+          },
+          {
+            "cod_area": "10800000",
+            "nm_area": "Oceanografia",
+            "sub_area": [
+              {
+                "cod_sub_area": "10801006",
+                "nm_sub_area": "Oceanografia Biológica"
+              },
+              {
+                "cod_sub_area": "10802002",
+                "nm_sub_area": "Oceanografia Física"
+              },
+              {
+                "cod_sub_area": "10803009",
+                "nm_sub_area": "Oceanografia Química"
+              },
+              {
+                "cod_sub_area": "10804005",
+                "nm_sub_area": "Oceanografia Geológica"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cod_grande_area": "20000006",
+        "nm_grande_area": "Ciências Biológicas",
+        "area": [
+          {
+            "cod_area": "20300000",
+            "nm_area": "Botânica",
+            "sub_area": [
+              {
+                "cod_sub_area": "20302002",
+                "nm_sub_area": "Morfologia Vegetal"
+              },
+              {
+                "cod_sub_area": "20303009",
+                "nm_sub_area": "Fisiologia Vegetal"
+              },
+              {
+                "cod_sub_area": "20304005",
+                "nm_sub_area": "Taxonomia Vegetal"
+              }
+            ]
+          },
+          {
+            "cod_area": "20400004",
+            "nm_area": "Zoologia",
+            "sub_area": {
+              "cod_sub_area": "20406002",
+              "nm_sub_area": "Zoologia Aplicada"
+            }
+          },
+          {
+            "cod_area": "20600003",
+            "nm_area": "Morfologia",
+            "sub_area": {
+              "cod_sub_area": "20604009",
+              "nm_sub_area": "Anatomia"
+            }
+          },
+          {
+            "cod_area": "20700008",
+            "nm_area": "Fisiologia",
+            "sub_area": {
+              "cod_sub_area": "20702000",
+              "nm_sub_area": "Fisiologia de Órgãos e Sistemas"
+            }
+          },
+          {
+            "cod_area": "20800002",
+            "nm_area": "Bioquímica",
+            "sub_area": {
+              "cod_sub_area": "20801009",
+              "nm_sub_area": "Química de Macromoléculas"
+            }
+          },
+          {
+            "cod_area": "21000000",
+            "nm_area": "Farmacologia",
+            "sub_area": {
+              "cod_sub_area": "21001006",
+              "nm_sub_area": "Farmacologia Geral"
+            }
+          },
+          {
+            "cod_area": "21200009",
+            "nm_area": "Microbiologia",
+            "sub_area": [
+              {
+                "cod_sub_area": "21201005",
+                "nm_sub_area": "Biologia e Fisiologia dos Microorganismos"
+              },
+              {
+                "cod_sub_area": "21202001",
+                "nm_sub_area": "Microbiologia Aplicada"
+              }
+            ]
+          },
+          {
+            "cod_area": "21300003",
+            "nm_area": "Parasitologia",
+            "sub_area": [
+              {
+                "cod_sub_area": "21301000",
+                "nm_sub_area": "Protozoologia de Parasitos"
+              },
+              {
+                "cod_sub_area": "21302006",
+                "nm_sub_area": "Helmintologia de Parasitos"
+              }
+            ]
+          },
+          {
+            "cod_area": "21400008",
+            "nm_area": "Biotecnologia",
+            "sub_area": [
+              {
+                "cod_sub_area": "21401004",
+                "nm_sub_area": "Biotecnologia em Saúde Humana e Animal"
+              },
+              {
+                "cod_sub_area": "21402000",
+                "nm_sub_area": "Biotecnologia Industrial"
+              },
+              {
+                "cod_sub_area": "21403007",
+                "nm_sub_area": "Biotecnologia Vegetal"
+              },
+              {
+                "cod_sub_area": "21404003",
+                "nm_sub_area": "Biotecnologia Ambiental e Recursos Naturais"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cod_grande_area": "30000009",
+        "nm_grande_area": "Engenharias",
+        "area": [
+          {
+            "cod_area": "30100003",
+            "nm_area": "Engenharia Civil",
+            "sub_area": [
+              {
+                "cod_sub_area": "30101000",
+                "nm_sub_area": "Construção Civil"
+              },
+              {
+                "cod_sub_area": "30102006",
+                "nm_sub_area": "Estruturas"
+              },
+              {
+                "cod_sub_area": "30103002",
+                "nm_sub_area": "Geotécnica"
+              },
+              {
+                "cod_sub_area": "30104009",
+                "nm_sub_area": "Engenharia Hidráulica"
+              },
+              {
+                "cod_sub_area": "30105005",
+                "nm_sub_area": "Infra-Estrutura de Transportes"
+              }
+            ]
+          },
+          {
+            "cod_area": "30200008",
+            "nm_area": "Engenharia de Minas",
+            "sub_area": [
+              {
+                "cod_sub_area": "30201004",
+                "nm_sub_area": "Pesquisa Mineral"
+              },
+              {
+                "cod_sub_area": "30202000",
+                "nm_sub_area": "Lavra"
+              },
+              {
+                "cod_sub_area": "30203007",
+                "nm_sub_area": "Tratamento de Minérios"
+              }
+            ]
+          },
+          {
+            "cod_area": "30300002",
+            "nm_area": "Engenharia de Materiais e Metalúrgica",
+            "sub_area": [
+              {
+                "cod_sub_area": "30301009",
+                "nm_sub_area": "Instalações e Equipamentos Metalúrgicos"
+              },
+              {
+                "cod_sub_area": "30302005",
+                "nm_sub_area": "Metalurgia Extrativa"
+              },
+              {
+                "cod_sub_area": "30303001",
+                "nm_sub_area": "Metalurgia de Transformação"
+              },
+              {
+                "cod_sub_area": "30304008",
+                "nm_sub_area": "Metalurgia Física"
+              },
+              {
+                "cod_sub_area": "30305004",
+                "nm_sub_area": "Materiais Não-Metálicos"
+              }
+            ]
+          },
+          {
+            "cod_area": "30400007",
+            "nm_area": "Engenharia Elétrica",
+            "sub_area": [
+              {
+                "cod_sub_area": "30401003",
+                "nm_sub_area": "Materiais Elétricos"
+              },
+              {
+                "cod_sub_area": "30402000",
+                "nm_sub_area": "Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação"
+              },
+              {
+                "cod_sub_area": "30403006",
+                "nm_sub_area": "Circuitos Elétricos, Magnéticos e Eletrônicos"
+              },
+              {
+                "cod_sub_area": "30404002",
+                "nm_sub_area": "Sistemas Elétricos de Potência"
+              },
+              {
+                "cod_sub_area": "30405009",
+                "nm_sub_area": "Eletrônica Industrial, Sistemas e Controles Eletrônicos"
+              },
+              {
+                "cod_sub_area": "30406005",
+                "nm_sub_area": "Telecomunicações"
+              }
+            ]
+          },
+          {
+            "cod_area": "30500001",
+            "nm_area": "Engenharia Mecânica",
+            "sub_area": [
+              {
+                "cod_sub_area": "30501008",
+                "nm_sub_area": "Fenômenos de Transporte"
+              },
+              {
+                "cod_sub_area": "30502004",
+                "nm_sub_area": "Engenharia Térmica"
+              },
+              {
+                "cod_sub_area": "30503000",
+                "nm_sub_area": "Mecânica dos Sólidos"
+              },
+              {
+                "cod_sub_area": "30504007",
+                "nm_sub_area": "Projetos de Máquinas"
+              },
+              {
+                "cod_sub_area": "30505003",
+                "nm_sub_area": "Processos de Fabricação"
+              }
+            ]
+          },
+          {
+            "cod_area": "30600006",
+            "nm_area": "Engenharia Química",
+            "sub_area": [
+              {
+                "cod_sub_area": "30601002",
+                "nm_sub_area": "Processos Industriais de Engenharia Química"
+              },
+              {
+                "cod_sub_area": "30602009",
+                "nm_sub_area": "Operações Industriais e Equipamentos para Engenharia Química"
+              },
+              {
+                "cod_sub_area": "30603005",
+                "nm_sub_area": "Tecnologia Química"
+              }
+            ]
+          },
+          {
+            "cod_area": "30700000",
+            "nm_area": "Engenharia Sanitária",
+            "sub_area": [
+              {
+                "cod_sub_area": "30701007",
+                "nm_sub_area": "Recursos Hídricos"
+              },
+              {
+                "cod_sub_area": "30702003",
+                "nm_sub_area": "Tratamento de Águas de Abastecimento e Residuárias"
+              },
+              {
+                "cod_sub_area": "30703000",
+                "nm_sub_area": "Saneamento Básico"
+              },
+              {
+                "cod_sub_area": "30704006",
+                "nm_sub_area": "Saneamento Ambiental"
+              }
+            ]
+          },
+          {
+            "cod_area": "30800005",
+            "nm_area": "Engenharia de Produção",
+            "sub_area": [
+              {
+                "cod_sub_area": "30801001",
+                "nm_sub_area": "Gerência de Produção"
+              },
+              {
+                "cod_sub_area": "30802008",
+                "nm_sub_area": "Pesquisa Operacional"
+              },
+              {
+                "cod_sub_area": "30803004",
+                "nm_sub_area": "Engenharia do Produto"
+              },
+              {
+                "cod_sub_area": "30804000",
+                "nm_sub_area": "Engenharia Econômica"
+              }
+            ]
+          },
+          {
+            "cod_area": "30900000",
+            "nm_area": "Engenharia Nuclear",
+            "sub_area": [
+              {
+                "cod_sub_area": "30901006",
+                "nm_sub_area": "Aplicações de Radioisótopos"
+              },
+              {
+                "cod_sub_area": "30902002",
+                "nm_sub_area": "Fusão Controlada"
+              },
+              {
+                "cod_sub_area": "30903009",
+                "nm_sub_area": "Combustível Nuclear"
+              },
+              {
+                "cod_sub_area": "30904005",
+                "nm_sub_area": "Tecnologia dos Reatores"
+              }
+            ]
+          },
+          {
+            "cod_area": "31000002",
+            "nm_area": "Engenharia de Transportes",
+            "sub_area": [
+              {
+                "cod_sub_area": "31001009",
+                "nm_sub_area": "Planejamento de Transportes"
+              },
+              {
+                "cod_sub_area": "31002005",
+                "nm_sub_area": "Veículos e Equipamentos de Controle"
+              },
+              {
+                "cod_sub_area": "31003001",
+                "nm_sub_area": "Operações de Transportes"
+              }
+            ]
+          },
+          {
+            "cod_area": "31100007",
+            "nm_area": "Engenharia Naval e Oceânica",
+            "sub_area": [
+              {
+                "cod_sub_area": "31101003",
+                "nm_sub_area": "Hidrodinâmica de Navios e Sistemas Oceânicos"
+              },
+              {
+                "cod_sub_area": "31102000",
+                "nm_sub_area": "Estruturas Navais e Oceânicas"
+              },
+              {
+                "cod_sub_area": "31103006",
+                "nm_sub_area": "Máquinas Marítimas"
+              },
+              {
+                "cod_sub_area": "31104002",
+                "nm_sub_area": "Projeto de Navios e de Sistemas Oceânicos"
+              },
+              {
+                "cod_sub_area": "31105009",
+                "nm_sub_area": "Tecnologia de Construção Naval e de Sistemas Oceânicos"
+              }
+            ]
+          },
+          {
+            "cod_area": "31200001",
+            "nm_area": "Engenharia Aeroespacial",
+            "sub_area": [
+              {
+                "cod_sub_area": "31201008",
+                "nm_sub_area": "Aerodinâmica"
+              },
+              {
+                "cod_sub_area": "31202004",
+                "nm_sub_area": "Dinâmica de Vôo"
+              },
+              {
+                "cod_sub_area": "31203000",
+                "nm_sub_area": "Estruturas Aeroespaciais"
+              },
+              {
+                "cod_sub_area": "31205003",
+                "nm_sub_area": "Propulsão Aeroespacial"
+              },
+              {
+                "cod_sub_area": "31206000",
+                "nm_sub_area": "Sistemas Aeroespaciais"
+              }
+            ]
+          },
+          {
+            "cod_area": "31300006",
+            "nm_area": "Engenharia Biomédica",
+            "sub_area": [
+              {
+                "cod_sub_area": "31301002",
+                "nm_sub_area": "Bioengenharia"
+              },
+              {
+                "cod_sub_area": "31302009",
+                "nm_sub_area": "Engenharia Médica"
+              }
+            ]
+          },
+          {
+            "cod_area": "31400000",
+            "nm_area": "Engenharia de Energia",
+            "sub_area": [
+              {
+                "cod_sub_area": "31401007",
+                "nm_sub_area": "Planejamento Energético"
+              },
+              {
+                "cod_sub_area": "31402003",
+                "nm_sub_area": "Fontes Renováveis de Energia"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cod_grande_area": "40000001",
+        "nm_grande_area": "Ciências da Saúde",
+        "area": {
+          "cod_area": "40100006",
+          "nm_area": "Medicina",
+          "sub_area": [
+            {
+              "cod_sub_area": "40101002",
+              "nm_sub_area": "Clínica Médica"
+            },
+            {
+              "cod_sub_area": "40102009",
+              "nm_sub_area": "Cirurgia"
+            }
+          ]
+        }
+      },
+      {
+        "cod_grande_area": "50000004",
+        "nm_grande_area": "Ciências Agrárias",
+        "area": [
+          {
+            "cod_area": "50100009",
+            "nm_area": "Agronomia",
+            "sub_area": [
+              {
+                "cod_sub_area": "50101005",
+                "nm_sub_area": "Ciência do Solo"
+              },
+              {
+                "cod_sub_area": "50102001",
+                "nm_sub_area": "Fitossanidade"
+              },
+              {
+                "cod_sub_area": "50103008",
+                "nm_sub_area": "Fitotecnia"
+              },
+              {
+                "cod_sub_area": "50104004",
+                "nm_sub_area": "Floricultura, Parques e Jardins"
+              }
+            ]
+          },
+          {
+            "cod_area": "50200003",
+            "nm_area": "Recursos Florestais e Engenharia Florestal",
+            "sub_area": [
+              {
+                "cod_sub_area": "50201000",
+                "nm_sub_area": "Silvicultura"
+              },
+              {
+                "cod_sub_area": "50202006",
+                "nm_sub_area": "Manejo Florestal"
+              },
+              {
+                "cod_sub_area": "50203002",
+                "nm_sub_area": "Técnicas e Operações Florestais"
+              },
+              {
+                "cod_sub_area": "50204009",
+                "nm_sub_area": "Tecnologia e Utilização de Produtos Florestais"
+              },
+              {
+                "cod_sub_area": "50205005",
+                "nm_sub_area": "Conservação da Natureza"
+              }
+            ]
+          },
+          {
+            "cod_area": "50300008",
+            "nm_area": "Engenharia Agrícola",
+            "sub_area": [
+              {
+                "cod_sub_area": "50302000",
+                "nm_sub_area": "Engenharia de Água e Solo"
+              },
+              {
+                "cod_sub_area": "50303007",
+                "nm_sub_area": "Engenharia de Processamento de Produtos Agrícolas"
+              },
+              {
+                "cod_sub_area": "50304003",
+                "nm_sub_area": "Construções Rurais e Ambiência"
+              }
+            ]
+          },
+          {
+            "cod_area": "50400002",
+            "nm_area": "Zootecnia",
+            "sub_area": [
+              {
+                "cod_sub_area": "50403001",
+                "nm_sub_area": "Nutrição e Alimentação Animal"
+              },
+              {
+                "cod_sub_area": "50404008",
+                "nm_sub_area": "Pastagem e Forragicultura"
+              },
+              {
+                "cod_sub_area": "50405004",
+                "nm_sub_area": "Produção Animal"
+              }
+            ]
+          },
+          {
+            "cod_area": "50500007",
+            "nm_area": "Medicina Veterinária",
+            "sub_area": [
+              {
+                "cod_sub_area": "50501003",
+                "nm_sub_area": "Clínica e Cirurgia Animal"
+              },
+              {
+                "cod_sub_area": "50502000",
+                "nm_sub_area": "Medicina Veterinária Preventiva"
+              },
+              {
+                "cod_sub_area": "50503006",
+                "nm_sub_area": "Patologia Animal"
+              },
+              {
+                "cod_sub_area": "50504002",
+                "nm_sub_area": "Reprodução Animal"
+              }
+            ]
+          },
+          {
+            "cod_area": "50600001",
+            "nm_area": "Recursos Pesqueiros e Engenharia de Pesca",
+            "sub_area": [
+              {
+                "cod_sub_area": "50601008",
+                "nm_sub_area": "Recursos Pesqueiros Marinhos"
+              },
+              {
+                "cod_sub_area": "50602004",
+                "nm_sub_area": "Recursos Pesqueiros de Águas Interiores"
+              },
+              {
+                "cod_sub_area": "50603000",
+                "nm_sub_area": "Aqüicultura"
+              }
+            ]
+          },
+          {
+            "cod_area": "50700006",
+            "nm_area": "Ciência e Tecnologia de Alimentos",
+            "sub_area": [
+              {
+                "cod_sub_area": "50701002",
+                "nm_sub_area": "Ciência de Alimentos"
+              },
+              {
+                "cod_sub_area": "50702009",
+                "nm_sub_area": "Tecnologia de Alimentos"
+              },
+              {
+                "cod_sub_area": "50703005",
+                "nm_sub_area": "Engenharia de Alimentos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cod_grande_area": "60000007",
+        "nm_grande_area": "Ciências Sociais Aplicadas",
+        "area": [
+          {
+            "cod_area": "60100001",
+            "nm_area": "Direito",
+            "sub_area": [
+              {
+                "cod_sub_area": "60101008",
+                "nm_sub_area": "Teoria do Direito"
+              },
+              {
+                "cod_sub_area": "60102004",
+                "nm_sub_area": "Direito Público"
+              },
+              {
+                "cod_sub_area": "60103000",
+                "nm_sub_area": "Direito Privado"
+              }
+            ]
+          },
+          {
+            "cod_area": "60200006",
+            "nm_area": "Administração",
+            "sub_area": [
+              {
+                "cod_sub_area": "60201002",
+                "nm_sub_area": "Administração de Empresas"
+              },
+              {
+                "cod_sub_area": "60202009",
+                "nm_sub_area": "Administração Pública"
+              }
+            ]
+          },
+          {
+            "cod_area": "60300000",
+            "nm_area": "Economia",
+            "sub_area": [
+              {
+                "cod_sub_area": "60301007",
+                "nm_sub_area": "Teoria Econômica"
+              },
+              {
+                "cod_sub_area": "60302003",
+                "nm_sub_area": "Métodos Quantitativos em Economia"
+              },
+              {
+                "cod_sub_area": "60303000",
+                "nm_sub_area": "Economia Monetária e Fiscal"
+              },
+              {
+                "cod_sub_area": "60304006",
+                "nm_sub_area": "Crescimento, Flutuações e Planejamento Econômico"
+              },
+              {
+                "cod_sub_area": "60305002",
+                "nm_sub_area": "Economia Internacional"
+              },
+              {
+                "cod_sub_area": "60306009",
+                "nm_sub_area": "Economia dos Recursos Humanos"
+              },
+              {
+                "cod_sub_area": "60307005",
+                "nm_sub_area": "Economia Industrial"
+              },
+              {
+                "cod_sub_area": "60308001",
+                "nm_sub_area": "Economia do Bem-Estar Social"
+              },
+              {
+                "cod_sub_area": "60309008",
+                "nm_sub_area": "Economia Regional e Urbana"
+              },
+              {
+                "cod_sub_area": "60310006",
+                "nm_sub_area": "Economias Agrária e dos Recursos Naturais"
+              }
+            ]
+          },
+          {
+            "cod_area": "60400005",
+            "nm_area": "Arquitetura e Urbanismo",
+            "sub_area": [
+              {
+                "cod_sub_area": "60401001",
+                "nm_sub_area": "Fundamentos de Arquitetura e Urbanismo"
+              },
+              {
+                "cod_sub_area": "60402008",
+                "nm_sub_area": "Projeto de Arquitetura e Urbanismo"
+              },
+              {
+                "cod_sub_area": "60403004",
+                "nm_sub_area": "Tecnologia de Arquitetura e Urbanismo"
+              },
+              {
+                "cod_sub_area": "60404000",
+                "nm_sub_area": "Paisagismo"
+              }
+            ]
+          },
+          {
+            "cod_area": "60500000",
+            "nm_area": "Planejamento Urbano e Regional",
+            "sub_area": [
+              {
+                "cod_sub_area": "60501006",
+                "nm_sub_area": "Fundamentos do Planejamento Urbano e Regional"
+              },
+              {
+                "cod_sub_area": "60502002",
+                "nm_sub_area": "Métodos e Técnicas do Planejamento Urbano e Regional"
+              },
+              {
+                "cod_sub_area": "60503009",
+                "nm_sub_area": "Serviços Urbanos e Regionais"
+              }
+            ]
+          },
+          {
+            "cod_area": "60600004",
+            "nm_area": "Demografia",
+            "sub_area": [
+              {
+                "cod_sub_area": "60601000",
+                "nm_sub_area": "Distribuição Espacial"
+              },
+              {
+                "cod_sub_area": "60602007",
+                "nm_sub_area": "Tendência Populacional"
+              },
+              {
+                "cod_sub_area": "60603003",
+                "nm_sub_area": "Componentes da Dinâmica Demográfica"
+              },
+              {
+                "cod_sub_area": "60604000",
+                "nm_sub_area": "Nupcialidade e Família"
+              },
+              {
+                "cod_sub_area": "60605006",
+                "nm_sub_area": "Demografia Histórica"
+              },
+              {
+                "cod_sub_area": "60606002",
+                "nm_sub_area": "Política Pública e População"
+              }
+            ]
+          },
+          {
+            "cod_area": "60700009",
+            "nm_area": "Ciência da Informação",
+            "sub_area": [
+              {
+                "cod_sub_area": "60701005",
+                "nm_sub_area": "Teoria da Informação"
+              },
+              {
+                "cod_sub_area": "60702001",
+                "nm_sub_area": "Biblioteconomia"
+              },
+              {
+                "cod_sub_area": "60703008",
+                "nm_sub_area": "Arquivologia"
+              }
+            ]
+          },
+          {
+            "cod_area": "60900008",
+            "nm_area": "Comunicação",
+            "sub_area": [
+              {
+                "cod_sub_area": "60902000",
+                "nm_sub_area": "Jornalismo e Editoração"
+              },
+              {
+                "cod_sub_area": "60903007",
+                "nm_sub_area": "Rádio e Televisão"
+              }
+            ]
+          },
+          {
+            "cod_area": "61000000",
+            "nm_area": "Serviço Social",
+            "sub_area": {
+              "cod_sub_area": "61002003",
+              "nm_sub_area": "Serviço Social Aplicado"
+            }
+          }
+        ]
+      },
+      {
+        "cod_grande_area": "70000000",
+        "nm_grande_area": "Ciências Humanas",
+        "area": [
+          {
+            "cod_area": "70200009",
+            "nm_area": "Sociologia",
+            "sub_area": {
+              "cod_sub_area": "70201005",
+              "nm_sub_area": "Fundamentos da Sociologia"
+            }
+          },
+          {
+            "cod_area": "70500002",
+            "nm_area": "História",
+            "sub_area": [
+              {
+                "cod_sub_area": "70504008",
+                "nm_sub_area": "História da América"
+              },
+              {
+                "cod_sub_area": "70505004",
+                "nm_sub_area": "História do Brasil"
+              }
+            ]
+          },
+          {
+            "cod_area": "70600007",
+            "nm_area": "Geografia",
+            "sub_area": [
+              {
+                "cod_sub_area": "70601003",
+                "nm_sub_area": "Geografia Humana"
+              },
+              {
+                "cod_sub_area": "70602000",
+                "nm_sub_area": "Geografia Regional"
+              }
+            ]
+          },
+          {
+            "cod_area": "70700001",
+            "nm_area": "Psicologia",
+            "sub_area": [
+              {
+                "cod_sub_area": "70701008",
+                "nm_sub_area": "Fundamentos e Medidas da Psicologia"
+              },
+              {
+                "cod_sub_area": "70702004",
+                "nm_sub_area": "Psicologia Experimental"
+              },
+              {
+                "cod_sub_area": "70703000",
+                "nm_sub_area": "Psicologia Fisiológica"
+              },
+              {
+                "cod_sub_area": "70704007",
+                "nm_sub_area": "Psicologia Comparativa"
+              },
+              {
+                "cod_sub_area": "70705003",
+                "nm_sub_area": "Psicologia Social"
+              },
+              {
+                "cod_sub_area": "70707006",
+                "nm_sub_area": "Psicologia do Desenvolvimento Humano"
+              },
+              {
+                "cod_sub_area": "70708002",
+                "nm_sub_area": "Psicologia do Ensino e da Aprendizagem"
+              },
+              {
+                "cod_sub_area": "70709009",
+                "nm_sub_area": "Psicologia do Trabalho e Organizacional"
+              },
+              {
+                "cod_sub_area": "70710007",
+                "nm_sub_area": "Tratamento e Prevenção Psicológica"
+              }
+            ]
+          },
+          {
+            "cod_area": "70800006",
+            "nm_area": "Educação",
+            "sub_area": [
+              {
+                "cod_sub_area": "70801002",
+                "nm_sub_area": "Fundamentos da Educação"
+              },
+              {
+                "cod_sub_area": "70802009",
+                "nm_sub_area": "Administração Educacional"
+              },
+              {
+                "cod_sub_area": "70803005",
+                "nm_sub_area": "Planejamento e Avaliação Educacional"
+              },
+              {
+                "cod_sub_area": "70804001",
+                "nm_sub_area": "Ensino-Aprendizagem"
+              },
+              {
+                "cod_sub_area": "70805008",
+                "nm_sub_area": "Currículo"
+              },
+              {
+                "cod_sub_area": "70806004",
+                "nm_sub_area": "Orientação e Aconselhamento"
+              },
+              {
+                "cod_sub_area": "70807000",
+                "nm_sub_area": "Tópicos Específicos de Educação"
+              }
+            ]
+          },
+          {
+            "cod_area": "70900000",
+            "nm_area": "Ciência Política",
+            "sub_area": [
+              {
+                "cod_sub_area": "70901007",
+                "nm_sub_area": "Teoria Política"
+              },
+              {
+                "cod_sub_area": "70902003",
+                "nm_sub_area": "Estado e Governo"
+              },
+              {
+                "cod_sub_area": "70903000",
+                "nm_sub_area": "Comportamento Político"
+              },
+              {
+                "cod_sub_area": "70904006",
+                "nm_sub_area": "Políticas Públicas"
+              },
+              {
+                "cod_sub_area": "70905002",
+                "nm_sub_area": "Política Internacional"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cod_grande_area": "80000002",
+        "nm_grande_area": "Lingüística, Letras e Artes",
+        "area": {
+          "cod_area": "80300006",
+          "nm_area": "Artes",
+          "sub_area": [
+            {
+              "cod_sub_area": "80301002",
+              "nm_sub_area": "Fundamentos e Crítica das Artes"
+            },
+            {
+              "cod_sub_area": "80302009",
+              "nm_sub_area": "Artes Plásticas"
+            },
+            {
+              "cod_sub_area": "80303005",
+              "nm_sub_area": "Música"
+            },
+            {
+              "cod_sub_area": "80304001",
+              "nm_sub_area": "Dança"
+            },
+            {
+              "cod_sub_area": "80305008",
+              "nm_sub_area": "Teatro"
+            },
+            {
+              "cod_sub_area": "80308007",
+              "nm_sub_area": "Cinema"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

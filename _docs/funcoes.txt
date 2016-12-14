@@ -1,0 +1,52 @@
+GERENCIAR USUÁRIOS
+------------------
+Cadastrar usuário - OK
+Autenticar usuário - OK
+Remover usuário - OK
+Alterar Senha - OK
+
+
+GERENCIAR APLICAÇÕES
+--------------------
+Criar aplicação - 
+Abrir aplicação
+Importar aplicação
+Salvar aplicação
+Salvar como
+Editar propriedades
+Fechar aplicação
+
+
+AÇÕES AMBIENTE DE CRIAÇÃO
+-----------------------
+Criar simulação
+Pré-Visualizar
+Publicar aplicação
+Reportar erros
+
+
+OBJETOS E ITERAÇÕES
+-------------------
+Modelo tridimensional (3D)
+Marcadores
+Objetos de Interações
+	Loop
+	Zoom In/Out
+	Rotação e Translação
+	Sumir e Aparecer
+	Trocar de Marcador
+	Colisão
+	Imã
+	Repulsa
+Alerta e Ajuda
+Dispositivo Físico
+Comportamento pré-configurado
+
+
+GRAFO DE CENA
+-------------
+Comportamento pré-configurado
+Agrupar Componentes na Cena
+Executar Aplicação
+
+//pensar em fazer uma função que executa comandos no banco não faz sentido eu copiar todo codigo sempre!

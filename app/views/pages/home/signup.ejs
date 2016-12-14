@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<% include ../../partials/home/styles %>
+	
+	<!-- Bootstrap 3.3.5 -->
+	<link href="/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+	<!-- Theme style -->
+	<link href="/css/template/AdminLTE.min.css" rel="stylesheet" />
+
+	<% include ../../partials/home/head %>
+	<title>WARGEN - <%= titulo %></title>
+</head>
+<body>
+
+	<div class="hold-transition register-page">
+		<div class="register-box">
+			<div class="register-logo">
+				<a href="/index"><b>WAR</b>GEN</a>
+			</div>
+
+			<div class="register-box-body">
+				<p class="login-box-msg">Registrar novo usuário</p>
+				
+				<div class="form-group has-feedback">
+					<input id="nome" type="text" class="form-control" placeholder="Nome completo">
+					<span class="form-control-feedback"></span>
+				</div>
+				<div class="form-group has-feedback">
+					<input id="email" type="text" class="form-control" placeholder="Email">
+					<span class="form-control-feedback"></span>
+				</div>
+				<div class="form-group has-feedback">
+					<input id="email_conf" type="text" class="form-control" placeholder="Confirmar email">
+					<span class="form-control-feedback"></span>
+				</div>
+				<div class="form-group has-feedback">
+					<input id="senha" type="password" class="form-control" placeholder="Senha">
+					<span class="form-control-feedback"></span>
+				</div>
+				<div class="form-group has-feedback">
+					<input id="senha_conf" type="password" class="form-control" placeholder="Confirmar senha">
+					<span class="form-control-feedback"></span>
+				</div>
+				<div class="row">
+					<div class="col-xs-8">
+					</div><!-- /.col -->
+					<div class="col-xs-4">
+						<button id="btnCriaUsuario" type="button" class="btn btn-primary btn-block btn-flat" data-bind="click: addUsuario">Registrar</button>
+					</div><!-- /.col -->
+				</div>
+				<div class="row">
+					<br/>
+					<div id="pnlMsg" class="col-xs-12"></div>
+				</div>
+
+				
+
+				<a href="/login" class="text-center">Eu já possuo uma conta</a>
+			</div><!-- /.form-box -->
+		</div><!-- /.register-box -->
+
+	</div>
+
+	<script src="http://ajax.aspnetcdn.com/ajax/jquery/jquery-1.9.0.js"></script>
+	<script src="http://ajax.aspnetcdn.com/ajax/knockout/knockout-2.2.1.js"></script>
+
+	<script src="js/classes/user.js"></script>
+</body>
+</html>
+
+

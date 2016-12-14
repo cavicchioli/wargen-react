@@ -1,0 +1,85 @@
+
+API - RELATAR ERROS
+POST
+entradas:
+
+ocorrencias
+
+
+MENSAGENS/RELATOS/BUG/NOVAS FUNC...
+
+PK inc_cod
+usu_cod
+
+FK prj_cod - Codigo do projeto.
+PF dep_cod - Codigo do deploy.
+
+inc_dtreg
+inc_tprelato - ERRO / REQ. NOVA FUNÇÃO
+inc_descricao
+
+inc_dterro (bug)
+inc_gravidade (bug)
+inc_comoreproduzir (bug)
+inc_comportamentoatual (bug)
+inc_comportamentoesperado (bug)
+inc_resolucao (bug)
+
+inc_dtvisu
+inc_resposta
+inc_dtresp
+
+----------------------------
+DEPLOY - Tabela para guardar a versão do sistema ativo - URL etc...
+dep_cod
+prj_cod
+dep_dtreg
+dep_dtcanc
+--
+dep_url
+dep_versao
+
+
+Submitter (Usuário)
+Your name and a way to contact you
+
+
+Date Seen (Data que achou)
+date the bug was found goes here
+include the time, if you are submitting more than one bug
+
+
+Versions (versão)
+Operating System and version
+Software title and version
+other installed software, if applicable
+hardware information, if applicable
+
+
+Bug Description (descrição)
+A concise description of what the problem is.  Pure description, no narrative or conversational language.
+
+
+Severity (gravidade)
+Trivial, Minor, Major, or Catastrophic
+
+
+Steps to Reproduce (passos para reproduzir)
+Step by step instructions on how to reproduce this bug.
+Do not assume anything, the more detailed your list of instructions, the easier it is for the developer to track down the problem!
+
+
+Actual Behavior (comportamento atual)
+Type what happens when you follow the instructions.  This is the manifestation of the bug.
+
+
+Expected Behavior (comportamento esperado)
+Type what you expected to happen when you followed the instructions.  This is important, because you may have misunderstood something or missed a step, and knowing what you expected to see will help the developer recognize that.
+
+
+Troubleshooting/Testing Steps Attempted (Resolução do problema)
+Describe anything you did to try to fix it on your own.
+
+
+Workaround (Solução de contorno)
+If you found a way to make the program work in spite of the bug, describe how you did it here.

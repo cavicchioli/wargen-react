@@ -1,0 +1,24 @@
+{
+  "name": "wargen",
+  "description": "Web based augmented and virtual reality application generator",
+  "main": "start.bat",
+  "authors": [
+    "[Victor Hugo Cavichiolli Prado",
+    "xvictorprado@gmail.com]"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/cavicchioli/wargen",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.5",
+    "bootstrap": "^3.3.6",
+    "jquery": "2.2.3"
+  }
+}

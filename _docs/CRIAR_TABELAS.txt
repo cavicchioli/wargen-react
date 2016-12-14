@@ -1,0 +1,23 @@
+CRIAR TABELAS
+
+cnpq_grandes_areas
+grd_codigo
+grd_nome
+grd_dtcanc
+grd_dtreg
+
+cnpq_areas
+grd_codigo
+are_codigo
+are_nome
+are_dtcanc
+are_dtreg
+
+cnpq_sub_areas
+are_codigo
+sub_codigo
+sub_nome
+sub_dtcanc
+sub_dtreg
+
+erros
